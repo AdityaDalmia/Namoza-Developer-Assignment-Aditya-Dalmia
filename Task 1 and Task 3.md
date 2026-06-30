@@ -1,7 +1,7 @@
 NAMOZA Developer Assignment - Position 1
 
 Candidate Name: Aditya Dalmia
-
+Live Demo link - https://orthonow-namoza-assignment-aditya.netlify.app/
 ---
 
 Task 01: GTM Event Schema
